@@ -23,3 +23,5 @@ How does this work in numpy? where above_thresh is binary and has same shape as 
     color_select[above_thresh] = 1
 
 #### imshow() needs dtype to be np.uint8
+
+#### good matplotlib, numpy, pandas tutorials
